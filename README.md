@@ -13,12 +13,8 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-  [WhatsApp Image 2022-03-04 at 10 33 21 AM](https://user-images.githubusercontent.com/90189815/156738251-84355b53-15d8-4d21-b92a-3e768ff755e9.jpeg)
-b Pages 🌐-->
-  [WhatsApp Image 2022-03-04 at 10 32 42 AM](https://user-images.githubusercontent.com/90189815/156738263-4dd2960e-4a13-4830-956d-3a786d142701.jpeg)
-ste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+![WhatsApp Image 2022-03-04 at 10 33 21 AM](https://user-images.githubusercontent.com/90189815/156738682-b40e390c-6d9a-4ee5-9d04-6fcd430f5ec7.jpeg)
+![WhatsApp Image 2022-03-04 at 10 32 42 AM](https://user-images.githubusercontent.com/90189815/156738714-4b952139-0ddf-4663-b14c-cffa7ab7de03.jpeg)
 
 ## Installatie
 
